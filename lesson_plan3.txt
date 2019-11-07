@@ -1,0 +1,6 @@
+- Introduce the basic javascript function in index.js
+- Show how to add that in the index.html (the "this-is-new" divs 
+    are where, the students do not have this yet, I would remove the class attribute
+    since they haven't learned about classes or ids yet)
+- Introduce them to classes in html and css and explain the need for them (adding individual 
+    styles to elememts not based on tag name)
