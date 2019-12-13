@@ -2,6 +2,12 @@ body {
     background-color: powderblue;
     color: red;
 }
-div {
-    background-color: green;
+div.blue-box {
+    background-color: blue;
+}
+button.blue-box {
+    color: blue;
+}
+#logan {
+    font-size: 20px;
 }
